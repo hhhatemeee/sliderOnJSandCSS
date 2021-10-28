@@ -1,0 +1,2 @@
+# sliderOnJSandCSS
+Второй слайдер
